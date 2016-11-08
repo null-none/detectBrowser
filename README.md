@@ -5,7 +5,7 @@ Information detect browser
 ## Install
 
 ```bash
-bower install detect-browser
+bower install detect-browsers
 ```
 
 ## Example
