@@ -1,0 +1,16 @@
+{
+  "name": "detect-browser",
+  "homepage": "https://github.com/null-none/detectBrowser",
+  "authors": [
+    "Dmitry Kalinin <dmitry.kalinin.email@gmail.com>"
+  ],
+  "description": "Information detect browser",
+  "main": "detectBrowser.js",
+  "version": "0.0.1",
+  "keywords": [
+    "detect",
+    "browser"
+  ],
+  "license": "MIT",
+  "private": false
+}
