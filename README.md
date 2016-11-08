@@ -1,0 +1,2 @@
+# detectBrowser
+Browser BOM
